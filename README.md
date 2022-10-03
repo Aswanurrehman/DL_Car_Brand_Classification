@@ -41,5 +41,5 @@ Lamborghini
 Mercedes
 
 <br><br>
-<img src="Mercedes.png">
+<img src="image/Mercedes.png">
 <br><br>
